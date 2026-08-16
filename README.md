@@ -11,16 +11,35 @@ Developed an interactive HR Analytics dashboard in Power BI to analyze employee 
 * DAX
 * Excel
 
+## Key KPIs
+
+- Total Employees: 50.00K
+- Attrition Rate: 50.21%
+- Average Income: 26.02K
+- Average Years at Company: 10.77
+- Active Employees: 24.90K
+- Average Hourly Rate: 115.43
+
 ## Key Analysis
 
-* Employee headcount analysis
-* Employee demographics
-* Department-wise workforce analysis
-* Gender distribution
-* Employee attrition analysis
-* Job role analysis
-* Age and experience analysis
-* HR KPI tracking
+- Analyzed employee attrition across departments and job roles.
+- Compared attrition rates across income bands and job satisfaction levels.
+- Analyzed employee attrition trends based on overtime.
+- Evaluated average working years across departments.
+- Analyzed work-life balance across different job roles.
+- Examined the relationship between attrition and years since last promotion.
+
+## Dashboard Features
+
+- Interactive department filters
+- Gender filtering
+- Job role filtering
+- Department-wise attrition analysis
+- Income band analysis
+- Job satisfaction analysis
+- Overtime analysis
+- Promotion and experience analysis
+- Interactive Power BI visualizations
 
 ## Dashboard
 
