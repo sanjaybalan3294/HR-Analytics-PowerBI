@@ -26,7 +26,7 @@ Developed an interactive HR Analytics dashboard in Power BI to analyze employee 
 
 The Power BI dashboard provides interactive visualizations and filters to explore employee trends and HR metrics across different categories.
 
-![HR Analytics Dashboard](Images/dashboard.png)
+![HR Analytics Dashboard](Images/DASHBOARD/DASHBOARD.png)
 
 ## Project Files
 
