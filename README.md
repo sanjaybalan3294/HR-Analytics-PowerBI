@@ -51,7 +51,8 @@ The Power BI dashboard provides interactive visualizations and filters to explor
 
 ## Project Files
 
-- [DASHBOARD/DASHBOARD.png) – Preview of the HR Analytics dashboard
+- [HR Analytics Power BI Dashboard](HR%20Analytics.pbix) – Interactive Power BI dashboard
+- [Dashboard Screenshot](Images/dashboard.png) – Preview of the HR Analytics dashboard
 ## Key Skills Demonstrated
 
 * Data Cleaning
