@@ -2,14 +2,16 @@
 
 ## Project Overview
 
-Developed an interactive HR Analytics dashboard in Power BI to analyze employee data and identify workforce trends, employee demographics, and key HR performance indicators.
+Developed an interactive HR Analytics dashboard using Power BI to analyze employee attrition, workforce demographics, job roles, income bands, job satisfaction, overtime, and employee experience.
+
+The dashboard provides interactive filters and visualizations to identify workforce trends and understand factors associated with employee attrition.
 
 ## Tools Used
 
-* Power BI
-* Power Query
-* DAX
-* Excel
+- Power BI
+- Power Query
+- DAX
+- Excel
 
 ## Key KPIs
 
