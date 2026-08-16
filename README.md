@@ -22,14 +22,14 @@ The dashboard provides interactive filters and visualizations to identify workfo
 - Active Employees: 24.90K
 - Average Hourly Rate: 115.43
 
-## Key Analysis
+## Key Insights
 
-- Analyzed employee attrition across departments and job roles.
-- Compared attrition rates across income bands and job satisfaction levels.
-- Analyzed employee attrition trends based on overtime.
-- Evaluated average working years across departments.
+- Identified department-level differences in employee attrition.
+- Analyzed attrition patterns across income bands and job satisfaction.
+- Evaluated the relationship between overtime and employee attrition.
+- Compared average working years across departments.
 - Analyzed work-life balance across different job roles.
-- Examined the relationship between attrition and years since last promotion.
+- Examined attrition trends based on years since last promotion.
 
 ## Dashboard Features
 
